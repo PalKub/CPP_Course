@@ -1,0 +1,2 @@
+J:\Programy\CppProjects\Workspace1\Project2\main.cpp
+J:\Programy\CppProjects\Workspace1\Project1\main.cpp
