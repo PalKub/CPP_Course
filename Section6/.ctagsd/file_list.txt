@@ -1,0 +1,6 @@
+J:\Programy\CppProjects\Section6\Challenge\main.cpp
+J:\Programy\CppProjects\Section6\SizeofOperator\main.cpp
+J:\Programy\CppProjects\Section6\PrimitiveTypes\main.cpp
+J:\Programy\CppProjects\Section6\Constants\main.cpp
+J:\Programy\CppProjects\Section6\GlobalVariables\main.cpp
+J:\Programy\CppProjects\Section6\InitializingVariables\main.cpp

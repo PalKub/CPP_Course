@@ -1,0 +1,25 @@
+[{
+  "file": "J:\\Programy\\CppProjects\\Section6\\Challenge\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section6\\Challenge",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section6\\Challenge\\main.cpp -o J:\\Programy\\CppProjects\\Section6\\Challenge\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section6\\SizeofOperator\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section6\\SizeofOperator",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section6\\SizeofOperator\\main.cpp -o J:\\Programy\\CppProjects\\Section6\\SizeofOperator\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section6\\PrimitiveTypes\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section6\\PrimitiveTypes",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section6\\PrimitiveTypes\\main.cpp -o J:\\Programy\\CppProjects\\Section6\\PrimitiveTypes\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section6\\Constants\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section6\\Constants",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section6\\Constants\\main.cpp -o J:\\Programy\\CppProjects\\Section6\\Constants\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section6\\GlobalVariables\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section6\\GlobalVariables",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section6\\GlobalVariables\\main.cpp -o J:\\Programy\\CppProjects\\Section6\\GlobalVariables\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section6\\InitializingVariables\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section6\\InitializingVariables",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section6\\InitializingVariables\\main.cpp -o J:\\Programy\\CppProjects\\Section6\\InitializingVariables\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
