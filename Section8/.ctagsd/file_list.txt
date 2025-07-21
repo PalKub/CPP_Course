@@ -1,3 +1,4 @@
 J:\Programy\CppProjects\Section8\Euros\main.cpp
 J:\Programy\CppProjects\Section8\ArithmeticOperators\main.cpp
+J:\Programy\CppProjects\Section8\IncrementDecrementOperators\main.cpp
 J:\Programy\CppProjects\Section8\AssignmentOperator\main.cpp
