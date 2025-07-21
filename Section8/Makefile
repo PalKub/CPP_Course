@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ MixedExpressions - Debug ]----------"
-	@cd "MixedExpressions" && "$(MAKE)" -f  "MixedExpressions.mk"
+	@echo "----------Building project:[ RelationalOperators - Debug ]----------"
+	@cd "RelationalOperators" && "$(MAKE)" -f  "RelationalOperators.mk"
 clean:
-	@echo "----------Cleaning project:[ MixedExpressions - Debug ]----------"
-	@cd "MixedExpressions" && "$(MAKE)" -f  "MixedExpressions.mk" clean
+	@echo "----------Cleaning project:[ RelationalOperators - Debug ]----------"
+	@cd "RelationalOperators" && "$(MAKE)" -f  "RelationalOperators.mk" clean
