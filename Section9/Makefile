@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ForLoop - Debug ]----------"
-	@cd "ForLoop" && "$(MAKE)" -f  "ForLoop.mk"
+	@echo "----------Building project:[ RangeBasedForLoop - Debug ]----------"
+	@cd "RangeBasedForLoop" && "$(MAKE)" -f  "RangeBasedForLoop.mk"
 clean:
-	@echo "----------Cleaning project:[ ForLoop - Debug ]----------"
-	@cd "ForLoop" && "$(MAKE)" -f  "ForLoop.mk" clean
+	@echo "----------Cleaning project:[ RangeBasedForLoop - Debug ]----------"
+	@cd "RangeBasedForLoop" && "$(MAKE)" -f  "RangeBasedForLoop.mk" clean
