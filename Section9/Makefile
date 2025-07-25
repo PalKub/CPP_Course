@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ DoWhile - Debug ]----------"
-	@cd "DoWhile" && "$(MAKE)" -f  "DoWhile.mk"
+	@echo "----------Building project:[ Histogram - Debug ]----------"
+	@cd "Histogram" && "$(MAKE)" -f  "Histogram.mk"
 clean:
-	@echo "----------Cleaning project:[ DoWhile - Debug ]----------"
-	@cd "DoWhile" && "$(MAKE)" -f  "DoWhile.mk" clean
+	@echo "----------Cleaning project:[ Histogram - Debug ]----------"
+	@cd "Histogram" && "$(MAKE)" -f  "Histogram.mk" clean
