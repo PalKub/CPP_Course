@@ -29,8 +29,8 @@ int main() {
                 }
                 else {
                     cout << "[ ";
-                    for (long unsigned int i {0}; i < list.size(); ++i) {
-                        cout << list.at(i) << " ";
+                    for (auto val : list) {
+                        cout << val << " ";
                     }
                     cout << "]" << endl;
                 }
@@ -68,9 +68,9 @@ int main() {
                     cout << "Unable to calculate the mean - no data" << endl;
                 }
                 else {
-                    int sum {};
-                    for (long unsigned int i {0}; i < list.size(); i++) {
-                        sum += list.at(i);
+                    double sum {};
+                    for (auto val : list) {
+                        sum += val;
                     }
                     cout << "The mean of the elements is " << sum / list.size() << endl;
                 }
@@ -84,9 +84,9 @@ int main() {
                 }
                 else {
                     int smallest_number {list.at(0)};
-                    for (long unsigned int i {0}; i < list.size(); i++) {
-                        if (list.at(i) < smallest_number) 
-                            smallest_number = list.at(i);
+                    for (auto val : list) {
+                        if (val < smallest_number) 
+                            smallest_number = val;
                     }
                     cout << "The smallest number is " << smallest_number << endl;
                 }
@@ -100,9 +100,9 @@ int main() {
                 }
                 else {
                     int largest_number {list.at(0)};
-                    for (long unsigned int i {0}; i < list.size(); i++) {
-                        if (list.at(i) > largest_number) 
-                            largest_number = list.at(i);
+                    for (auto val : list) {
+                        if (val > largest_number) 
+                            largest_number = val;
                     }
                     cout << "The largest number is " << largest_number << endl;
                 }
@@ -117,8 +117,8 @@ int main() {
                 cout << "Enter a number you want to find: ";
                 cin >> number;
         
-                for (long unsigned int i {0}; i < list.size(); i++) {
-                    if (number == list.at(i)) {
+                for (auto val : list) {
+                    if (number == val) {
                         ++counter; 
                     }
                 }
