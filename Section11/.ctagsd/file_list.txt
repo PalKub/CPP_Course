@@ -1,0 +1,2 @@
+J:\Programy\CppProjects\Section11\Rand\main.cpp
+J:\Programy\CppProjects\Section11\Math\main.cpp
