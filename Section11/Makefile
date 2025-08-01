@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Random - Debug ]----------"
-	@cd "Rand" && "$(MAKE)" -f  "Random.mk"
+	@echo "----------Building project:[ FunctionDefinitions - Debug ]----------"
+	@cd "FunctionDefinitions" && "$(MAKE)" -f  "FunctionDefinitions.mk"
 clean:
-	@echo "----------Cleaning project:[ Random - Debug ]----------"
-	@cd "Rand" && "$(MAKE)" -f  "Random.mk" clean
+	@echo "----------Cleaning project:[ FunctionDefinitions - Debug ]----------"
+	@cd "FunctionDefinitions" && "$(MAKE)" -f  "FunctionDefinitions.mk" clean
