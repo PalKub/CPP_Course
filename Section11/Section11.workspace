@@ -4,7 +4,8 @@
   <Project Name="Random" Path="Rand/Rand.project" Active="No"/>
   <Project Name="FunctionDefinitions" Path="FunctionDefinitions/FunctionDefinitions.project" Active="No"/>
   <Project Name="FunctionPrototypes" Path="FunctionPrototypes/FunctionPrototypes.project" Active="No"/>
-  <Project Name="FunctionParameters" Path="FunctionParameters/FunctionParameters.project" Active="Yes"/>
+  <Project Name="FunctionParameters" Path="FunctionParameters/FunctionParameters.project" Active="No"/>
+  <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,7 @@
       <Project Name="FunctionDefinitions" ConfigName="Debug"/>
       <Project Name="FunctionPrototypes" ConfigName="Debug"/>
       <Project Name="FunctionParameters" ConfigName="Debug"/>
+      <Project Name="DefaultArguments" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +23,7 @@
       <Project Name="FunctionDefinitions" ConfigName="Release"/>
       <Project Name="FunctionPrototypes" ConfigName="Release"/>
       <Project Name="FunctionParameters" ConfigName="Release"/>
+      <Project Name="DefaultArguments" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
