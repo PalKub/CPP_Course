@@ -1,0 +1,1 @@
+J:\Programy\CppProjects\Section12\SimplePointers\main.cpp
