@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ ScopeExample - Debug ]----------"
-	@cd "ScopeExample" && "$(MAKE)" -f  "ScopeExample.mk"
+	@echo "----------Building project:[ HowFunctionCallsWork - Debug ]----------"
+	@cd "HowFunctionCallsWork" && "$(MAKE)" -f  "HowFunctionCallsWork.mk"
 clean:
-	@echo "----------Cleaning project:[ ScopeExample - Debug ]----------"
-	@cd "ScopeExample" && "$(MAKE)" -f  "ScopeExample.mk" clean
+	@echo "----------Cleaning project:[ HowFunctionCallsWork - Debug ]----------"
+	@cd "HowFunctionCallsWork" && "$(MAKE)" -f  "HowFunctionCallsWork.mk" clean
