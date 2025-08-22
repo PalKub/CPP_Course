@@ -10,7 +10,9 @@
   <Project Name="ArraysAndFunctions" Path="ArraysAndFunctions/ArraysAndFunctions.project" Active="No"/>
   <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
   <Project Name="ScopeExample" Path="ScopeExample/ScopeExample.project" Active="No"/>
-  <Project Name="HowFunctionCallsWork" Path="HowFunctionCallsWork/HowFunctionCallsWork.project" Active="Yes"/>
+  <Project Name="HowFunctionCallsWork" Path="HowFunctionCallsWork/HowFunctionCallsWork.project" Active="No"/>
+  <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
+  <Project Name="Factorial" Path="Factorial/Factorial.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +27,8 @@
       <Project Name="PassByReference" ConfigName="Debug"/>
       <Project Name="ScopeExample" ConfigName="Debug"/>
       <Project Name="HowFunctionCallsWork" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="Factorial" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -39,6 +43,8 @@
       <Project Name="PassByReference" ConfigName="Release"/>
       <Project Name="ScopeExample" ConfigName="Release"/>
       <Project Name="HowFunctionCallsWork" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="Factorial" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
