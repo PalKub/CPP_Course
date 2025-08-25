@@ -19,6 +19,8 @@ int main() {
     
     cout << temp_ptr << endl;
     
+    delete [] temp_ptr;
+    
     cout << endl;
     return 0;
 }
