@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Dereference - Debug ]----------"
-	@cd "Dereferemce" && "$(MAKE)" -f  "Dereference.mk"
+	@echo "----------Building project:[ DynamicMemory - Debug ]----------"
+	@cd "DynamicMemory" && "$(MAKE)" -f  "DynamicMemory.mk"
 clean:
-	@echo "----------Cleaning project:[ Dereference - Debug ]----------"
-	@cd "Dereferemce" && "$(MAKE)" -f  "Dereference.mk" clean
+	@echo "----------Cleaning project:[ DynamicMemory - Debug ]----------"
+	@cd "DynamicMemory" && "$(MAKE)" -f  "DynamicMemory.mk" clean
