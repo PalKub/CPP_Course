@@ -3,7 +3,8 @@
   <Project Name="SimplePointers" Path="SimplePointers/SimplePointers.project" Active="No"/>
   <Project Name="Dereference" Path="Dereferemce/Dereferemce.project" Active="No"/>
   <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
-  <Project Name="ArraysAndPointers" Path="ArraysAndPointers/ArraysAndPointers.project" Active="Yes"/>
+  <Project Name="ArraysAndPointers" Path="ArraysAndPointers/ArraysAndPointers.project" Active="No"/>
+  <Project Name="PointerArithmetic" Path="PointerArithmetic/PointerArithmetic.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="Dereference" ConfigName="Debug"/>
       <Project Name="DynamicMemory" ConfigName="Debug"/>
       <Project Name="ArraysAndPointers" ConfigName="Debug"/>
+      <Project Name="PointerArithmetic" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="Dereference" ConfigName="Release"/>
       <Project Name="DynamicMemory" ConfigName="Release"/>
       <Project Name="ArraysAndPointers" ConfigName="Release"/>
+      <Project Name="PointerArithmetic" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
