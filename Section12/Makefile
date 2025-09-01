@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ PointerArithmetic - Debug ]----------"
-	@cd "PointerArithmetic" && "$(MAKE)" -f  "PointerArithmetic.mk"
+	@echo "----------Building project:[ PaassingPointers3 - Debug ]----------"
+	@cd "PaassingPointers3" && "$(MAKE)" -f  "PaassingPointers3.mk"
 clean:
-	@echo "----------Cleaning project:[ PointerArithmetic - Debug ]----------"
-	@cd "PointerArithmetic" && "$(MAKE)" -f  "PointerArithmetic.mk" clean
+	@echo "----------Cleaning project:[ PaassingPointers3 - Debug ]----------"
+	@cd "PaassingPointers3" && "$(MAKE)" -f  "PaassingPointers3.mk" clean
