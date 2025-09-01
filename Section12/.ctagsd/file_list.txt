@@ -5,4 +5,5 @@ J:\Programy\CppProjects\Section12\PaassingPointers3\main.cpp
 J:\Programy\CppProjects\Section12\Dereferemce\main.cpp
 J:\Programy\CppProjects\Section12\PointerArithmetic\main.cpp
 J:\Programy\CppProjects\Section12\ArraysAndPointers\main.cpp
+J:\Programy\CppProjects\Section12\ReturnPointer\main.cpp
 J:\Programy\CppProjects\Section12\SimplePointers\main.cpp
