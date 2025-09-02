@@ -1,11 +1,12 @@
+J:\Programy\CppProjects\Section12\Challenge\main.cpp
 J:\Programy\CppProjects\Section12\Debugger\main.cpp
+J:\Programy\CppProjects\Section12\ArraysAndPointers\main.cpp
+J:\Programy\CppProjects\Section12\PointerArithmetic\main.cpp
 J:\Programy\CppProjects\Section12\References\main.cpp
 J:\Programy\CppProjects\Section12\PassingPointers2\main.cpp
 J:\Programy\CppProjects\Section12\PassingPointers1\main.cpp
+J:\Programy\CppProjects\Section12\ReturnPointer\main.cpp
 J:\Programy\CppProjects\Section12\DynamicMemory\main.cpp
 J:\Programy\CppProjects\Section12\PaassingPointers3\main.cpp
 J:\Programy\CppProjects\Section12\Dereferemce\main.cpp
-J:\Programy\CppProjects\Section12\PointerArithmetic\main.cpp
-J:\Programy\CppProjects\Section12\ArraysAndPointers\main.cpp
-J:\Programy\CppProjects\Section12\ReturnPointer\main.cpp
 J:\Programy\CppProjects\Section12\SimplePointers\main.cpp
