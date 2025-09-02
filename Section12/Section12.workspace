@@ -8,7 +8,8 @@
   <Project Name="PassingPointers1" Path="PassingPointers1/PassingPointers1.project" Active="No"/>
   <Project Name="PassingPointers2" Path="PassingPointers2/PassingPointers2.project" Active="No"/>
   <Project Name="PaassingPointers3" Path="PaassingPointers3/PaassingPointers3.project" Active="No"/>
-  <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="Yes"/>
+  <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="No"/>
+  <Project Name="References" Path="References/References.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -21,6 +22,7 @@
       <Project Name="PassingPointers2" ConfigName="Debug"/>
       <Project Name="PaassingPointers3" ConfigName="Debug"/>
       <Project Name="ReturnPointer" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -33,6 +35,7 @@
       <Project Name="PassingPointers2" ConfigName="Release"/>
       <Project Name="PaassingPointers3" ConfigName="Release"/>
       <Project Name="ReturnPointer" ConfigName="Release"/>
+      <Project Name="References" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

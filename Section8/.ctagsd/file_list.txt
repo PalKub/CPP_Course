@@ -3,7 +3,7 @@ J:\Programy\CppProjects\Section8\RelationalOperators\main.cpp
 J:\Programy\CppProjects\Section8\EqualityOperators\main.cpp
 J:\Programy\CppProjects\Section8\Challenge\main.cpp
 J:\Programy\CppProjects\Section8\MixedExpressions\main.cpp
-J:\Programy\CppProjects\Section8\AssignmentOperator\main.cpp
-J:\Programy\CppProjects\Section8\Euros\main.cpp
-J:\Programy\CppProjects\Section8\ArithmeticOperators\main.cpp
 J:\Programy\CppProjects\Section8\IncrementDecrementOperators\main.cpp
+J:\Programy\CppProjects\Section8\ArithmeticOperators\main.cpp
+J:\Programy\CppProjects\Section8\Euros\main.cpp
+J:\Programy\CppProjects\Section8\AssignmentOperator\main.cpp
