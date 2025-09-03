@@ -1,0 +1,1 @@
+../build-Debug/DeclaredClassAndObjects/main.cpp.o   
