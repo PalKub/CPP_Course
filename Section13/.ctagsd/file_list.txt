@@ -1,1 +1,2 @@
+J:\Programy\CppProjects\Section13\AccessingClassMembers\main.cpp
 J:\Programy\CppProjects\Section13\DeclaredClassAndObjects\main.cpp
