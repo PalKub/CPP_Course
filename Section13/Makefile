@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ AccessModifiers - Debug ]----------"
-	@cd "AccessModifiers" && "$(MAKE)" -f  "AccessModifiers.mk"
+	@echo "----------Building project:[ ImplementingMethods2 - Debug ]----------"
+	@cd "ImplementingMethods2" && "$(MAKE)" -f  "ImplementingMethods2.mk"
 clean:
-	@echo "----------Cleaning project:[ AccessModifiers - Debug ]----------"
-	@cd "AccessModifiers" && "$(MAKE)" -f  "AccessModifiers.mk" clean
+	@echo "----------Cleaning project:[ ImplementingMethods2 - Debug ]----------"
+	@cd "ImplementingMethods2" && "$(MAKE)" -f  "ImplementingMethods2.mk" clean
