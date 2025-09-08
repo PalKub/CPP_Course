@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ DefaultConstructorParameters - Debug ]----------"
-	@cd "DefaultConstructorParameters" && "$(MAKE)" -f  "DefaultConstructorParameters.mk"
+	@echo "----------Building project:[ CopyConstructor - Debug ]----------"
+	@cd "CopyConstructor" && "$(MAKE)" -f  "CopyConstructor.mk"
 clean:
-	@echo "----------Cleaning project:[ DefaultConstructorParameters - Debug ]----------"
-	@cd "DefaultConstructorParameters" && "$(MAKE)" -f  "DefaultConstructorParameters.mk" clean
+	@echo "----------Cleaning project:[ CopyConstructor - Debug ]----------"
+	@cd "CopyConstructor" && "$(MAKE)" -f  "CopyConstructor.mk" clean
