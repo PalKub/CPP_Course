@@ -1,7 +1,19 @@
 [{
+  "file": "J:\\Programy\\CppProjects\\Section13\\ShallowCopy\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section13\\ShallowCopy",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\ShallowCopy\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\ShallowCopy\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "J:\\Programy\\CppProjects\\Section13\\CopyConstructor\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section13\\CopyConstructor",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\CopyConstructor\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\CopyConstructor\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "J:\\Programy\\CppProjects\\Section13\\ConstructorInitializationLists\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section13\\ConstructorInitializationLists",
@@ -27,10 +39,6 @@
   "directory": "J:\\Programy\\CppProjects\\Section13\\ImplementingMethods2",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\ImplementingMethods2\\Account.cpp -o J:\\Programy\\CppProjects\\Section13\\ImplementingMethods2\\Account.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters\\main.cpp",
-  "directory": "J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters",
-  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\DefaultConstructorParameters\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
   "file": "J:\\Programy\\CppProjects\\Section13\\ImplementingMethods1\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section13\\ImplementingMethods1",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\ImplementingMethods1\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\ImplementingMethods1\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
@@ -38,10 +46,6 @@
   "file": "J:\\Programy\\CppProjects\\Section13\\AccessModifiers\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section13\\AccessModifiers",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\AccessModifiers\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\AccessModifiers\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
-  "file": "J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers\\main.cpp",
-  "directory": "J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers",
-  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers\\main.cpp -o J:\\Programy\\CppProjects\\Section13\\AccessingClassMembers\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "J:\\Programy\\CppProjects\\Section13\\ConstructorsAndDestructors\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section13\\ConstructorsAndDestructors",
