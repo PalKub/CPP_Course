@@ -1,0 +1,3 @@
+J:\Programy\CppProjects\Section14\Mystring-start\Mystring.cpp
+J:\Programy\CppProjects\Section14\Mystring-start\Mystring.h
+J:\Programy\CppProjects\Section14\Mystring-start\main.cpp
