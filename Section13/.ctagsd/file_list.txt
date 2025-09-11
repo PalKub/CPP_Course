@@ -13,5 +13,8 @@ J:\Programy\CppProjects\Section13\ImplementingMethods2\Account.h
 J:\Programy\CppProjects\Section13\ImplementingMethods2\Account.cpp
 J:\Programy\CppProjects\Section13\ImplementingMethods1\main.cpp
 J:\Programy\CppProjects\Section13\AccessModifiers\main.cpp
+J:\Programy\CppProjects\Section13\StaticClassMembers\Player.h
+J:\Programy\CppProjects\Section13\StaticClassMembers\Player.cpp
+J:\Programy\CppProjects\Section13\StaticClassMembers\main.cpp
 J:\Programy\CppProjects\Section13\ConstructorsAndDestructors\main.cpp
 J:\Programy\CppProjects\Section13\DeclaredClassAndObjects\main.cpp
