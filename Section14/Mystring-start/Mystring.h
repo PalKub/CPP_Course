@@ -4,7 +4,7 @@
 class Mystring
 {
 private:
-    char *str;  //pointre to a char[] that holds a C-style string
+    char *str;  //pointer to a char[] that holds a C-style string
 public:
     Mystring();                           //No-args constructor
     Mystring(const char*s);               //Overloaded constructor
