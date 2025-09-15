@@ -1,6 +1,9 @@
-J:\Programy\CppProjects\Section14\Mystring-copy-assignment\Mystring.cpp
-J:\Programy\CppProjects\Section14\Mystring-copy-assignment\Mystring.h
+J:\Programy\CppProjects\Section14\Mystring-move-assignment\Mystring.cpp
+J:\Programy\CppProjects\Section14\Mystring-move-assignment\Mystring.h
+J:\Programy\CppProjects\Section14\Mystring-move-assignment\main.cpp
 J:\Programy\CppProjects\Section14\Mystring-copy-assignment\main.cpp
+J:\Programy\CppProjects\Section14\Mystring-copy-assignment\Mystring.h
+J:\Programy\CppProjects\Section14\Mystring-copy-assignment\Mystring.cpp
 J:\Programy\CppProjects\Section14\Mystring-start\main.cpp
 J:\Programy\CppProjects\Section14\Mystring-start\Mystring.h
 J:\Programy\CppProjects\Section14\Mystring-start\Mystring.cpp
