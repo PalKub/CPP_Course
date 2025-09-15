@@ -1,3 +1,6 @@
+J:\Programy\CppProjects\Section14\Mystring-operator-functions\Mystring.cpp
+J:\Programy\CppProjects\Section14\Mystring-operator-functions\Mystring.h
+J:\Programy\CppProjects\Section14\Mystring-operator-functions\main.cpp
 J:\Programy\CppProjects\Section14\Mystring-move-assignment\Mystring.cpp
 J:\Programy\CppProjects\Section14\Mystring-move-assignment\Mystring.h
 J:\Programy\CppProjects\Section14\Mystring-move-assignment\main.cpp
