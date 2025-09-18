@@ -7,6 +7,9 @@ J:\Programy\CppProjects\Section14\Mystring-operator-functions\Mystring.cpp
 J:\Programy\CppProjects\Section14\Mystring-operator-methods\main.cpp
 J:\Programy\CppProjects\Section14\Mystring-operator-methods\Mystring.h
 J:\Programy\CppProjects\Section14\Mystring-operator-methods\Mystring.cpp
+J:\Programy\CppProjects\Section14\Challenge-Solution2\main.cpp
+J:\Programy\CppProjects\Section14\Challenge-Solution2\Mystring.h
+J:\Programy\CppProjects\Section14\Challenge-Solution2\Mystring.cpp
 J:\Programy\CppProjects\Section14\Mystring-move-assignment\main.cpp
 J:\Programy\CppProjects\Section14\Mystring-move-assignment\Mystring.h
 J:\Programy\CppProjects\Section14\Mystring-move-assignment\Mystring.cpp
