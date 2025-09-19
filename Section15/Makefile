@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ DerivingOurFirstClass - Debug ]----------"
-	@cd "DerivingOurFirstClass" && "$(MAKE)" -f  "DerivingOurFirstClass.mk"
+	@echo "----------Building project:[ ProtectedMembersClassAccess - Debug ]----------"
+	@cd "ProtectedMembersClassAccess" && "$(MAKE)" -f  "ProtectedMembersClassAccess.mk"
 clean:
-	@echo "----------Cleaning project:[ DerivingOurFirstClass - Debug ]----------"
-	@cd "DerivingOurFirstClass" && "$(MAKE)" -f  "DerivingOurFirstClass.mk" clean
+	@echo "----------Cleaning project:[ ProtectedMembersClassAccess - Debug ]----------"
+	@cd "ProtectedMembersClassAccess" && "$(MAKE)" -f  "ProtectedMembersClassAccess.mk" clean
