@@ -4,7 +4,8 @@
   <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="No"/>
   <Project Name="VirtualFunctions" Path="VirtualFunctions/VirtualFunctions.project" Active="No"/>
   <Project Name="VirtualDestructors" Path="VirtualDestructors/VirtualDestructors.project" Active="No"/>
-  <Project Name="UsingOverride" Path="UsingOverride/UsingOverride.project" Active="Yes"/>
+  <Project Name="UsingOverride" Path="UsingOverride/UsingOverride.project" Active="No"/>
+  <Project Name="BaseClassReferences" Path="BaseClassReferences/BaseClassReferences.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,7 @@
       <Project Name="VirtualFunctions" ConfigName="Debug"/>
       <Project Name="VirtualDestructors" ConfigName="Debug"/>
       <Project Name="UsingOverride" ConfigName="Debug"/>
+      <Project Name="BaseClassReferences" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +23,7 @@
       <Project Name="VirtualFunctions" ConfigName="Release"/>
       <Project Name="VirtualDestructors" ConfigName="Release"/>
       <Project Name="UsingOverride" ConfigName="Release"/>
+      <Project Name="BaseClassReferences" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
