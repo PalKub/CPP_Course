@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ TheProblem - Debug ]----------"
-	@cd "TheProblem" && "$(MAKE)" -f  "TheProblem.mk"
+	@echo "----------Building project:[ BaseClassPointers - Debug ]----------"
+	@cd "BaseClassPointers" && "$(MAKE)" -f  "BaseClassPointers.mk"
 clean:
-	@echo "----------Cleaning project:[ TheProblem - Debug ]----------"
-	@cd "TheProblem" && "$(MAKE)" -f  "TheProblem.mk" clean
+	@echo "----------Cleaning project:[ BaseClassPointers - Debug ]----------"
+	@cd "BaseClassPointers" && "$(MAKE)" -f  "BaseClassPointers.mk" clean

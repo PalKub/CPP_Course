@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section16" Database="" Version="10000">
-  <Project Name="TheProblem" Path="TheProblem/TheProblem.project" Active="Yes"/>
+  <Project Name="TheProblem" Path="TheProblem/TheProblem.project" Active="No"/>
+  <Project Name="BaseClassPointers" Path="BaseClassPointers/BaseClassPointers.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="TheProblem" ConfigName="Debug"/>
+      <Project Name="BaseClassPointers" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="TheProblem" ConfigName="Release"/>
+      <Project Name="BaseClassPointers" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
