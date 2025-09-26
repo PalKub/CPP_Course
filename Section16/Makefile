@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ BaseClassReferences - Debug ]----------"
-	@cd "BaseClassReferences" && "$(MAKE)" -f  "BaseClassReferences.mk"
+	@echo "----------Building project:[ PureVirtualFunctions - Debug ]----------"
+	@cd "PureVirtualFunctions" && "$(MAKE)" -f  "PureVirtualFunctions.mk"
 clean:
-	@echo "----------Cleaning project:[ BaseClassReferences - Debug ]----------"
-	@cd "BaseClassReferences" && "$(MAKE)" -f  "BaseClassReferences.mk" clean
+	@echo "----------Cleaning project:[ PureVirtualFunctions - Debug ]----------"
+	@cd "PureVirtualFunctions" && "$(MAKE)" -f  "PureVirtualFunctions.mk" clean
