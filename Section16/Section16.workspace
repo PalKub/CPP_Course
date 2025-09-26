@@ -6,7 +6,9 @@
   <Project Name="VirtualDestructors" Path="VirtualDestructors/VirtualDestructors.project" Active="No"/>
   <Project Name="UsingOverride" Path="UsingOverride/UsingOverride.project" Active="No"/>
   <Project Name="BaseClassReferences" Path="BaseClassReferences/BaseClassReferences.project" Active="No"/>
-  <Project Name="PureVirtualFunctions" Path="PureVirtualFunctions/PureVirtualFunctions.project" Active="Yes"/>
+  <Project Name="PureVirtualFunctions" Path="PureVirtualFunctions/PureVirtualFunctions.project" Active="No"/>
+  <Project Name="Interfaces-Start" Path="Interfaces-start/Interfaces-start.project" Active="No"/>
+  <Project Name="Interfaces-Complete" Path="Interfaces-Complete/Interfaces-Complete.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +19,8 @@
       <Project Name="UsingOverride" ConfigName="Debug"/>
       <Project Name="BaseClassReferences" ConfigName="Debug"/>
       <Project Name="PureVirtualFunctions" ConfigName="Debug"/>
+      <Project Name="Interfaces-Start" ConfigName="Debug"/>
+      <Project Name="Interfaces-Complete" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +31,8 @@
       <Project Name="UsingOverride" ConfigName="Release"/>
       <Project Name="BaseClassReferences" ConfigName="Release"/>
       <Project Name="PureVirtualFunctions" ConfigName="Release"/>
+      <Project Name="Interfaces-Start" ConfigName="Release"/>
+      <Project Name="Interfaces-Complete" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
