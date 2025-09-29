@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ WeakPointers - Debug ]----------"
-	@cd "WeakPointers" && "$(MAKE)" -f  "WeakPointers.mk"
+	@echo "----------Building project:[ CustomDeleters - Debug ]----------"
+	@cd "CustomDeleters" && "$(MAKE)" -f  "CustomDeleters.mk"
 clean:
-	@echo "----------Cleaning project:[ WeakPointers - Debug ]----------"
-	@cd "WeakPointers" && "$(MAKE)" -f  "WeakPointers.mk" clean
+	@echo "----------Cleaning project:[ CustomDeleters - Debug ]----------"
+	@cd "CustomDeleters" && "$(MAKE)" -f  "CustomDeleters.mk" clean
