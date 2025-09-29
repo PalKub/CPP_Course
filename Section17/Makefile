@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ SharedPointers - Debug ]----------"
-	@cd "SharedPointers" && "$(MAKE)" -f  "SharedPointers.mk"
+	@echo "----------Building project:[ WeakPointers - Debug ]----------"
+	@cd "WeakPointers" && "$(MAKE)" -f  "WeakPointers.mk"
 clean:
-	@echo "----------Cleaning project:[ SharedPointers - Debug ]----------"
-	@cd "SharedPointers" && "$(MAKE)" -f  "SharedPointers.mk" clean
+	@echo "----------Cleaning project:[ WeakPointers - Debug ]----------"
+	@cd "WeakPointers" && "$(MAKE)" -f  "WeakPointers.mk" clean

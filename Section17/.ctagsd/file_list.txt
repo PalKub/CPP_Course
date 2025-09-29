@@ -11,6 +11,7 @@ J:\Programy\CppProjects\Section17\SharedPointers\Checking_Account.h
 J:\Programy\CppProjects\Section17\SharedPointers\Account.h
 J:\Programy\CppProjects\Section17\SharedPointers\Trust_Account.cpp
 J:\Programy\CppProjects\Section17\SharedPointers\main.cpp
+J:\Programy\CppProjects\Section17\WeakPointers\main.cpp
 J:\Programy\CppProjects\Section17\UniquePointers\I_Printable.h
 J:\Programy\CppProjects\Section17\UniquePointers\I_Printable.cpp
 J:\Programy\CppProjects\Section17\UniquePointers\Checking_Account.cpp
