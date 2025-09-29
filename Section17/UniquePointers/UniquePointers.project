@@ -3,18 +3,18 @@
   <Description/>
   <Dependencies/>
   <VirtualDirectory Name="src">
+    <File Name="I_Printable.h"/>
+    <File Name="I_Printable.cpp"/>
+    <File Name="Checking_Account.h"/>
+    <File Name="Checking_Account.cpp"/>
+    <File Name="Account_Util.h"/>
+    <File Name="Account_Util.cpp"/>
+    <File Name="Account.h"/>
+    <File Name="Account.cpp"/>
     <File Name="Trust_Account.cpp"/>
     <File Name="Trust_Account.h"/>
     <File Name="Savings_Account.cpp"/>
     <File Name="Savings_Account.h"/>
-    <File Name="I_Printable.cpp"/>
-    <File Name="I_Printable.h"/>
-    <File Name="Checking_Account.cpp"/>
-    <File Name="Checking_Account.h"/>
-    <File Name="Account_Util.cpp"/>
-    <File Name="Account_Util.h"/>
-    <File Name="Account.cpp"/>
-    <File Name="Account.h"/>
     <File Name="main.cpp"/>
   </VirtualDirectory>
   <Settings Type="Executable">
