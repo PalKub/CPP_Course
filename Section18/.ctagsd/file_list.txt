@@ -1,3 +1,4 @@
+J:\Programy\CppProjects\Section18\MPGFunctionExceptionClasses\main.cpp
 J:\Programy\CppProjects\Section18\StackUnwinding\main.cpp
 J:\Programy\CppProjects\Section18\MPGException\main.cpp
 J:\Programy\CppProjects\Section18\MPGFunctionMultipleExceptionsSection18\main.cpp
