@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ MPGException - Debug ]----------"
-	@cd "MPGException" && "$(MAKE)" -f  "MPGException.mk"
+	@echo "----------Building project:[ MPGFunction - Debug ]----------"
+	@cd "MPGFunction" && "$(MAKE)" -f  "MPGFunction.mk"
 clean:
-	@echo "----------Cleaning project:[ MPGException - Debug ]----------"
-	@cd "MPGException" && "$(MAKE)" -f  "MPGException.mk" clean
+	@echo "----------Cleaning project:[ MPGFunction - Debug ]----------"
+	@cd "MPGFunction" && "$(MAKE)" -f  "MPGFunction.mk" clean
