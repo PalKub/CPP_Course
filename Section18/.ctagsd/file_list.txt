@@ -1,0 +1,2 @@
+J:\Programy\CppProjects\Section18\MPGException\main.cpp
+J:\Programy\CppProjects\Section18\MPG\main.cpp
