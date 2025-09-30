@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="Section18" Database="" Version="10000">
   <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
   <Project Name="MPGException" Path="MPGException/MPGException.project" Active="No"/>
-  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="Yes"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="No"/>
+  <Project Name="MPGFunctionMultipleExceptions" Path="MPGFunctionMultipleExceptionsSection18/MPGFunctionMultipleExceptionsSection18.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="MPG" ConfigName="Debug"/>
       <Project Name="MPGException" ConfigName="Debug"/>
       <Project Name="MPGFunction" ConfigName="Debug"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="MPG" ConfigName="Release"/>
       <Project Name="MPGException" ConfigName="Release"/>
       <Project Name="MPGFunction" ConfigName="Release"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
