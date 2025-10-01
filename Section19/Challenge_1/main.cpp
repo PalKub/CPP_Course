@@ -29,7 +29,7 @@ struct Tours {
 void display_city(const City &city) {
     std::cout << std::setw(city_width) << std::left << city.name
               << std::setw(population_width) << std::right << city.population
-              << std::setw(cost_width) << std::setprecision(2) << std::fixed << std::showpoint << city.cost
+              << std::setw(cost_width) << city.cost
               << std::endl;
 }
 
@@ -49,7 +49,8 @@ void display_tours(const Tours &tours) {
               << std::setw(population_width) << std::right << "Population"
               << std::setw(cost_width) << std::right << "Price"
               << std::endl;
-    std::cout <<"----------------------------------------------------------------------" << std::endl;
+    std::cout << std::setw(total_width) << std::setfill('-') << "" << std::endl;
+    std::cout << std::setfill(' ') << std::setprecision(2) << std::fixed;
     for(const auto &country : tours.countries) {
         display_country(country);
     }
