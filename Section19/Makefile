@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Manip_Integer - Debug ]----------"
-	@cd "Manip_Integer" && "$(MAKE)" -f  "Manip_Integer.mk"
+	@echo "----------Building project:[ Manip_Floating - Debug ]----------"
+	@cd "Manip_Floating" && "$(MAKE)" -f  "Manip_Floating.mk"
 clean:
-	@echo "----------Cleaning project:[ Manip_Integer - Debug ]----------"
-	@cd "Manip_Integer" && "$(MAKE)" -f  "Manip_Integer.mk" clean
+	@echo "----------Cleaning project:[ Manip_Floating - Debug ]----------"
+	@cd "Manip_Floating" && "$(MAKE)" -f  "Manip_Floating.mk" clean
