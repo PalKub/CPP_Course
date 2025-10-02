@@ -1,7 +1,11 @@
+J:\Programy\CppProjects\Section19\ReadFile_4\main.cpp
+J:\Programy\CppProjects\Section19\ReadFile_2\test.txt
 J:\Programy\CppProjects\Section19\ReadFile_2\main.cpp
 J:\Programy\CppProjects\Section19\ReadFile1\main.cpp
 J:\Programy\CppProjects\Section19\ReadFile1\test.txt
 J:\Programy\CppProjects\Section19\Manip_Floating\main.cpp
+J:\Programy\CppProjects\Section19\ReadFile_3\poem.txt
+J:\Programy\CppProjects\Section19\ReadFile_3\main.cpp
 J:\Programy\CppProjects\Section19\Challenge_1\main.cpp
 J:\Programy\CppProjects\Section19\Manip_Integer\main.cpp
 J:\Programy\CppProjects\Section19\Manip_Fields\main.cpp
