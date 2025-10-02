@@ -4,7 +4,9 @@
   <Project Name="Manip_Integer" Path="Manip_Integer/Manip_Integer.project" Active="No"/>
   <Project Name="Manip_Floating" Path="Manip_Floating/Manip_Floating.project" Active="No"/>
   <Project Name="Manip_Fields" Path="Manip_Fields/Manip_Fields.project" Active="No"/>
-  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="Yes"/>
+  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
+  <Project Name="ReadFile_1" Path="ReadFile1/ReadFile1.project" Active="No"/>
+  <Project Name="ReadFile_2" Path="ReadFile_2/ReadFile_2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +15,8 @@
       <Project Name="Manip_Floating" ConfigName="Debug"/>
       <Project Name="Manip_Fields" ConfigName="Debug"/>
       <Project Name="Challenge_1" ConfigName="Debug"/>
+      <Project Name="ReadFile_1" ConfigName="Debug"/>
+      <Project Name="ReadFile_2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +25,8 @@
       <Project Name="Manip_Floating" ConfigName="Release"/>
       <Project Name="Manip_Fields" ConfigName="Release"/>
       <Project Name="Challenge_1" ConfigName="Release"/>
+      <Project Name="ReadFile_1" ConfigName="Release"/>
+      <Project Name="ReadFile_2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
