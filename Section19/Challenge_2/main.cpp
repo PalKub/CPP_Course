@@ -21,7 +21,7 @@ void print_footnote() {
 }
 
 int process_answers(std::string &answers) {
-    int score{};
+    int score{0};
     num_students++;
     for (size_t i = 0; i < answers.length(); i++)
         if(correct_answers[i] == answers[i])
