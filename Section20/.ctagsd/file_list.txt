@@ -1,3 +1,4 @@
+J:\Programy\CppProjects\Section20\Algorithms\main.cpp
 J:\Programy\CppProjects\Section20\Iterators\main.cpp
 J:\Programy\CppProjects\Section20\ClassTemplateArray\main.cpp
 J:\Programy\CppProjects\Section20\ClassTemplates\main.cpp
