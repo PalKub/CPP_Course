@@ -14,11 +14,13 @@ bool is_palindrome(const std::string& s) {
             word_queue.push(toupper(c));
             word_stack.push(toupper(c));
         }
-        
-    while(!word_stack.empty()) {
+    int length = s.length() / 2;
+    
+    while(length > 0) {
         if(word_queue.front() == word_stack.top()) {
             word_stack.pop();
             word_queue.pop();
+            length--;
         } else
             return false;
     }
