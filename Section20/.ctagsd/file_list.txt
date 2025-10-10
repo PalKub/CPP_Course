@@ -5,6 +5,7 @@ J:\Programy\CppProjects\Section20\ClassTemplates\main.cpp
 J:\Programy\CppProjects\Section20\Challenge_2\main.cpp
 J:\Programy\CppProjects\Section20\Stack\main.cpp
 J:\Programy\CppProjects\Section20\Vector\main.cpp
+J:\Programy\CppProjects\Section20\Queue\main.cpp
 J:\Programy\CppProjects\Section20\Array\main.cpp
 J:\Programy\CppProjects\Section20\Challenge_3\words.txt
 J:\Programy\CppProjects\Section20\Challenge_3\main.cpp

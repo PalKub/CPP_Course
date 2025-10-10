@@ -5,7 +5,7 @@
 
 //This function displays a stack of
 //by repeatedly topping and popping the stack
-//Note that the stack is passed in value so we
+//Note that the stack is passed in by value so we
 //don't affect the passed in stack.
 template <typename T>
 void display(std::stack<T> s) {
