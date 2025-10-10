@@ -61,7 +61,7 @@ void part2() {
     std::string word;
     std::ifstream in_file{"../Challenge_3/words.txt"};
     if(in_file) {
-            int line_count {0};
+        int line_count {0};
         while(std::getline(in_file, line)) {
             line_count++;
             std::istringstream ss{line};
