@@ -1,15 +1,19 @@
 [{
+  "file": "J:\\Programy\\CppProjects\\Section20\\List\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section20\\List",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\List\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\List\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "J:\\Programy\\CppProjects\\Section20\\Deque\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section20\\Deque",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\Deque\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\Deque\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
+  "file": "J:\\Programy\\CppProjects\\Section20\\ClassTemplates\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section20\\ClassTemplates",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\ClassTemplates\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\ClassTemplates\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "J:\\Programy\\CppProjects\\Section20\\Challenge_2\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section20\\Challenge_2",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\Challenge_2\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\Challenge_2\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
-  "file": "J:\\Programy\\CppProjects\\Section20\\List\\main.cpp",
-  "directory": "J:\\Programy\\CppProjects\\Section20\\List",
-  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\List\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\List\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "J:\\Programy\\CppProjects\\Section20\\Vector\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section20\\Vector",
@@ -18,6 +22,10 @@
   "file": "J:\\Programy\\CppProjects\\Section20\\Array\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section20\\Array",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\Array\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\Array\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "J:\\Programy\\CppProjects\\Section20\\Set\\main.cpp",
+  "directory": "J:\\Programy\\CppProjects\\Section20\\Set",
+  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\Set\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\Set\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "J:\\Programy\\CppProjects\\Section20\\Algorithms\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section20\\Algorithms",
@@ -34,10 +42,6 @@
   "file": "J:\\Programy\\CppProjects\\Section20\\ClassTemplateArray\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section20\\ClassTemplateArray",
   "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\ClassTemplateArray\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\ClassTemplateArray\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
- }, {
-  "file": "J:\\Programy\\CppProjects\\Section20\\ClassTemplates\\main.cpp",
-  "directory": "J:\\Programy\\CppProjects\\Section20\\ClassTemplates",
-  "command": "J:/Programy/mingw64/bin/g++.exe -c J:\\Programy\\CppProjects\\Section20\\ClassTemplates\\main.cpp -o J:\\Programy\\CppProjects\\Section20\\ClassTemplates\\main.cpp.o -target x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\x86_64-w64-mingw32 -IJ:\\Programy\\mingw64\\include\\c++\\15.1.0\\backward -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include -IJ:\\Programy\\mingw64\\include -IJ:\\Programy\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\15.1.0\\include-fixed -IJ:\\Programy\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
   "file": "J:\\Programy\\CppProjects\\Section20\\FunctionTemplates\\main.cpp",
   "directory": "J:\\Programy\\CppProjects\\Section20\\FunctionTemplates",

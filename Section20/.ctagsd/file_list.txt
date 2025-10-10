@@ -1,11 +1,12 @@
-J:\Programy\CppProjects\Section20\Deque\main.cpp
-J:\Programy\CppProjects\Section20\Challenge_2\main.cpp
 J:\Programy\CppProjects\Section20\List\main.cpp
+J:\Programy\CppProjects\Section20\Deque\main.cpp
+J:\Programy\CppProjects\Section20\ClassTemplates\main.cpp
+J:\Programy\CppProjects\Section20\Challenge_2\main.cpp
 J:\Programy\CppProjects\Section20\Vector\main.cpp
 J:\Programy\CppProjects\Section20\Array\main.cpp
+J:\Programy\CppProjects\Section20\Set\main.cpp
 J:\Programy\CppProjects\Section20\Algorithms\main.cpp
 J:\Programy\CppProjects\Section20\Challenge_1\main.cpp
 J:\Programy\CppProjects\Section20\Iterators\main.cpp
 J:\Programy\CppProjects\Section20\ClassTemplateArray\main.cpp
-J:\Programy\CppProjects\Section20\ClassTemplates\main.cpp
 J:\Programy\CppProjects\Section20\FunctionTemplates\main.cpp
