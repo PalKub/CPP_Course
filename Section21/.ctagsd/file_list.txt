@@ -1,1 +1,2 @@
+J:\Programy\CppProjects\Section21\StatelessLambdas\main.cpp
 J:\Programy\CppProjects\Section21\FunctionObjects\main.cpp
