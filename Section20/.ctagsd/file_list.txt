@@ -8,8 +8,8 @@ J:\Programy\CppProjects\Section20\Vector\main.cpp
 J:\Programy\CppProjects\Section20\PriorityQueue\main.cpp
 J:\Programy\CppProjects\Section20\Queue\main.cpp
 J:\Programy\CppProjects\Section20\Array\main.cpp
-J:\Programy\CppProjects\Section20\Challenge_3\words.txt
 J:\Programy\CppProjects\Section20\Challenge_3\main.cpp
+J:\Programy\CppProjects\Section20\Challenge_3\words.txt
 J:\Programy\CppProjects\Section20\Set\main.cpp
 J:\Programy\CppProjects\Section20\Algorithms\main.cpp
 J:\Programy\CppProjects\Section20\Challenge_4\main.cpp
