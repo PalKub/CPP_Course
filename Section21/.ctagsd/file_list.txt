@@ -1,3 +1,4 @@
+J:\Programy\CppProjects\Section21\STL_Lambdas\main.cpp
 J:\Programy\CppProjects\Section21\StatefulLambdas\main.cpp
 J:\Programy\CppProjects\Section21\StatelessLambdas\main.cpp
 J:\Programy\CppProjects\Section21\FunctionObjects\main.cpp
